@@ -1,6 +1,3 @@
-Here's the updated `README.md` with the GitHub URL set to `https://github.com/encrypter15`:
-
-```markdown
 # Vehicle Maintenance Management System
 
 **Author:** Rick Hayes  
